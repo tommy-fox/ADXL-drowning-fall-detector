@@ -1,4 +1,4 @@
-# drowning-fall-detector-ADXL345-Teensy3.2
+# wearable-ADXL345-Teensy3.2
 
  This program congifures an ADXL345 accelerometer and Teensy 3.2 controller to detect drowning as well as falling.
   
