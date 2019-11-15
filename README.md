@@ -12,6 +12,6 @@
  <b> Wearable Device Prototype </b>
  </p>
  <p align="center">
- <img width="450" height="600" src="https://raw.githubusercontent.com/tommy-fox/drowning-fall-detector-ADXL345-Teensy3.2/master/wearable_image.jpg"> 
+ <img width="600" height="400" src="https://raw.githubusercontent.com/tommy-fox/drowning-fall-detector-ADXL345-Teensy3.2/master/wearable_image.jpg"> 
  </p>
  <br>
