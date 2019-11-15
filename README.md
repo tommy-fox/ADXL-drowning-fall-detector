@@ -7,3 +7,11 @@
  drowning is detected by rapid hand motion, but not triggered by normal swimming.
   
  Double Tap also participates with the Free Fall interrupt in falling detection.
+ 
+  <p align="center">
+ <b> Wearable Device Prototype </b>
+ </p>
+ <p align="center">
+ <img width="450" height="600" src="https://raw.githubusercontent.com/tommy-fox/drowning-fall-detector-ADXL345-Teensy3.2/master/wearable_image.jpg"> 
+ </p>
+ <br>
