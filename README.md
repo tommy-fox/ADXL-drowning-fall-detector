@@ -1,6 +1,6 @@
 # wearable-ADXL345-Teensy3.2
 
- This program congifures an ADXL345 accelerometer and Teensy 3.2 controller to detect drowning as well as falling.
+ This program configures an ADXL345 accelerometer and Teensy 3.2 controller to detect drowning as well as falling.
   
  Double Tap and Free Fall ADXL interrupts are utilized for this functionality.
  Tap settings are configured so that if device is worn around the wrist,
